@@ -1,6 +1,6 @@
 # Maths_pour_info
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courchesne/Algebre-Lineaire/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courchesne/Maths_pour_info/master)
  
  Des exemples de calculs pour le cours de mathématiques pour l'informatique, exécutables par Binder. 
  
